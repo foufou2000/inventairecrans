@@ -1,0 +1,4 @@
+# Publish ONLY the (encrypted) index.html: sources and photos stay local
+*
+!index.html
+!.gitignore
